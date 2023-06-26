@@ -1,0 +1,18 @@
+.valuecard{
+    transition: transform .4s;
+}
+
+.valuecard:hover{
+    transform: scale(1.03);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+
+.redbtn{
+    position: relative;
+    right: 0;
+    transition: right 0.5s;
+}
+
+.rmdbut:hover .redbtn{
+    right: -8px;
+}

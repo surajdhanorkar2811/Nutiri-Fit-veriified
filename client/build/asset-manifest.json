@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80f11a5b.css",
+    "main.js": "/static/js/main.3cf31f56.js",
+    "static/media/pratik.jpg": "/static/media/pratik.6b46f6058f5cad1870a7.jpg",
+    "static/media/suraj.jpg": "/static/media/suraj.fd52ae5dd57983638d9c.jpg",
+    "static/media/whoweare.png": "/static/media/whoweare.b38af697b324d3c118b5.png",
+    "static/media/apple.jpg": "/static/media/apple.f3436cb697dd94c3dd1d.jpg",
+    "static/media/intro.png": "/static/media/intro.f31b8b07cf76d7696f35.png",
+    "static/media/prajwal.jpg": "/static/media/prajwal.44c8083fa9c34ebc3fe4.jpg",
+    "static/media/biryani.jpg": "/static/media/biryani.ebb17fad0cf37392900f.jpg",
+    "static/media/basicpreve.png": "/static/media/basicpreve.b6c15f78a3237d1b73a2.png",
+    "static/media/idli.jpg": "/static/media/idli.2a87700bf434697becdb.jpg",
+    "static/media/login.png": "/static/media/login.55bc7f746fad4cdcce43.png",
+    "static/media/mayank.jpg": "/static/media/mayank.1929a4963d5445931974.jpg",
+    "static/media/chicken.jpg": "/static/media/chicken.e758e11251fca753cebd.jpg",
+    "static/media/uniqueidea.png": "/static/media/uniqueidea.727e3b7f2a3ea758ff1a.png",
+    "static/media/newsimg.png": "/static/media/newsimg.6baf721718a24af38bd2.png",
+    "static/media/poha.jpg": "/static/media/poha.fddecfb6ca761a9d656a.jpg",
+    "static/media/signup.png": "/static/media/signup.10add2a586d464858987.png",
+    "static/media/saurabh.jpg": "/static/media/saurabh.8cb839a2fbbd7eccb31d.jpg",
+    "static/media/rice.jpg": "/static/media/rice.a8b78343016ae91a21bc.jpg",
+    "static/media/orange.jpg": "/static/media/orange.77c0cbbf76fa2880b68b.jpg",
+    "static/media/timesaving.png": "/static/media/timesaving.ecfe7a9ca47c4b3de984.png",
+    "static/media/dosa.jpg": "/static/media/dosa.623c141428c223499219.jpg",
+    "index.html": "/index.html",
+    "main.80f11a5b.css.map": "/static/css/main.80f11a5b.css.map",
+    "main.3cf31f56.js.map": "/static/js/main.3cf31f56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f11a5b.css",
+    "static/js/main.3cf31f56.js"
+  ]
+}
